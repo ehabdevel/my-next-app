@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/addPost",function(){return{page:webpackJsonp([4],{261:function(e,o,t){e.exports=t(262)}},[261]).default}});
